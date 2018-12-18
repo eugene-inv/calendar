@@ -1,3 +1,9 @@
+## Install
+
+Run `npm install` in the root of the project
+
+## Main files
+
 App.js file, this is going to be our React Native app entry point.
 
 
